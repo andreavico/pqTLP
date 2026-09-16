@@ -1,0 +1,13 @@
+Third-party arithmetic
+======================
+
+The bundled backend contains code adapted from Qlapoti, copyright (c) 2026
+KU Leuven - COSIC, under the MIT licence in LICENSES/QLAPOTI-MIT.txt.
+
+The bundled theta arithmetic contains code copyright (c) 2023 Pierrick
+Dartois, Luciano Maino, Giacomo Pope and Damien Robert, under the MIT licence
+in LICENSES/THETA-MIT.txt.
+
+Other bundled SQIsign arithmetic is copyright 2023-2025 the SQIsign team and
+is distributed under the Apache License 2.0 in
+LICENSES/SQISIGN-APACHE-2.0.txt.
